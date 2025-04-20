@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -81,10 +81,10 @@
 <body>
     <div class="container">
         <div class="profile-info">
-            <img src="git_hub" alt="Your GitHub Avatar" class="avatar">
+            
             <div>
                 <h1 class="username">sarathdotgithub</h1>
-                <p class="bio">A python enthusiast.</p>
+                <p class="bio">DATA SCIENCE.</p>
                 <div class="links">
                     <a href="https://github.com/sarathdotgithub">GitHub Profile</a> |
                     <a href="https://www.linkedin.com/in/sarathrajj/">LinkedIn</a> |
@@ -97,12 +97,12 @@
             <h2>Featured Repositories</h2>
             <ul class="repo-list">
                 <li class="repo-item">
-                    <h3 class="repo-name"><a href="YOUR_REPO_1_URL">Repository 1 Name</a></h3>
-                    <p class="repo-description">A short description of your first featured repository.</p>
+                    <h3 class="adventure works"><a href="https://github.com/sarathdotgithub/ADVENTURE-WORKS">Adventure works</a></h3>
+                    <p class="repo-description">Here I have used Powerbi to visualise the sales and customer data for effective feedback.</p>
                 </li>
                 <li class="repo-item">
-                    <h3 class="repo-name"><a href="YOUR_REPO_2_URL">Repository 2 Name</a></h3>
-                    <p class="repo-description">A brief explanation of your second highlighted project.</p>
+                    <h3 class="import stock data"><https://github.com/sarathdotgithub/import-data-from-stock-market">Repository 2 Name</a></h3>
+                    <p class="repo-description">Here I have used python to get the stock market data.</p>
                 </li>
                 </ul>
         </div>
